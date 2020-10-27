@@ -2,8 +2,7 @@
 
 html
 css/sass/scss
-js
-
+js, babel
 gh-pages
 
 ### npm start - for start
