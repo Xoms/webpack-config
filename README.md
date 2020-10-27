@@ -1,4 +1,4 @@
-# webpack-config
+# webpack 5 config
 
 html
 css/sass/scss
